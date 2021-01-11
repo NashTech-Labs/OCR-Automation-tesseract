@@ -1,1 +1,1 @@
-# OCR-Automation--tesseract
+# OCR-Automation-tesseract
